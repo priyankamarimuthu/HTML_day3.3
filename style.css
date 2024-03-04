@@ -1,0 +1,69 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+} 
+body {
+    background-color: rgb(14, 14, 53);
+    color: aliceblue;
+}
+.container1 {
+    width: 1200px;
+    margin: 50px;
+    margin-left: 250px;
+}
+
+.container2 {
+    width: 1200px;
+    margin: 50px;
+    margin-left: 250px;
+    font-family: serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    width: 80%;
+    font-size: large;
+    border: 1px solid white;
+    line-height: 40px;
+    padding: 20px;
+}
+
+.abc {
+    margin-left: 450px;
+    margin-top: -800px;
+}
+
+.row2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box2 {
+    width: 300px;
+    border: 1px solid white;
+    margin: 10px;
+    padding: 10px;
+    border-top-right-radius: 90px;
+}
+
+.color {
+    color: rgb(73, 225, 73);
+    font-size: 35px;
+}
+.button {
+    padding: 15px;
+    background-color: rgb(73, 73, 207);
+    color: #faf9f9;
+    padding-right: 30px;
+}
+
+.inline {
+    display: inline;
+}
